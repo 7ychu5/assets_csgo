@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture"	"alamhigo/street/window01_d"
+	"$surfaceprop" "stone"
+	"$bumpmap" "alamhigo/street/window01_n"
+	"%keywords" "alamihgo"
+}
