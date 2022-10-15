@@ -1,0 +1,1315 @@
+
+
+
+materialPath: E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.vmf
+Map revision 25
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND02, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL03, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WINDOW01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL02_1, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/STRIP01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND01, using default
+Patching WVT material: maps/ze_ffxiv_stormblood_alamihgo_a1/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (455540 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3493 texinfos to 1782
+Reduced 15 texdatas to 13 (426 bytes to 344)
+Writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.prt
+ 129 portalclusters
+ 336 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 3 visible clusters (0.00%)
+Total clusters visible: 15952
+Average clusters visible: 123
+Building PAS...
+Average clusters audible: 129
+visdatasize:5422  compressed from 6192
+writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+4682 faces
+1535041 square feet [221045920.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4682 patches before subdivision
+147748 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 57079408, max 1736
+transfer lists: 435.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0769 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1306/8192        15672/98304    (15.9%) 
+brushsides            8310/81920       66480/655360   (10.1%) 
+planes                1898/65536       37960/1310720  ( 2.9%) 
+vertexes              8683/65536      104196/786432   (13.2%) 
+nodes                  324/65536       10368/2097152  ( 0.5%) 
+texinfos              1782/12288      128304/884736   (14.5%) 
+texdata                 13/4096          416/131072   ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4682/65536      262192/3670016  ( 7.1%) 
+hdr faces             4682/65536      262192/3670016  ( 7.1%) 
+origfaces             2937/65536      164472/3670016  ( 4.5%) 
+facebrushes            358/0             716/0        ( 0.0%) 
+facebrushlists        4682/0           18728/0        ( 0.0%) 
+leaves                 326/65536       10432/2097152  ( 0.5%) 
+leaffaces             5553/65536       11106/131072   ( 8.5%) 
+leafbrushes           1918/65536        3836/131072   ( 2.9%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            33907/512000     135628/2048000  ( 6.6%) 
+edges                21321/256000      85284/1024000  ( 8.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            348/32768        3480/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8319/65536       16638/131072   (12.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     9672536/0        ( 0.0%) 
+visdata               [variable]        5422/16777216 ( 0.0%) 
+entdata               [variable]         759/393216   ( 0.2%) 
+LDR ambient table      326/65536        1304/262144   ( 0.5%) 
+HDR ambient table      326/65536        1304/262144   ( 0.5%) 
+LDR leaf ambient       326/65536        9128/1835008  ( 0.5%) 
+HDR leaf ambient       129/65536        3612/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3010     ( 0.0%) 
+pakfile               [variable]      932590/0        ( 0.0%) 
+physics               [variable]      455540/4194304  (10.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 12797
+Writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+4 minutes, 34 seconds elapsed
+
+
+
+materialPath: E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.vmf
+Map revision 25
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND02, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL03, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WINDOW01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL02_1, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/STRIP01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND01, using default
+Patching WVT material: maps/ze_ffxiv_stormblood_alamihgo_a1/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (455540 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3493 texinfos to 1782
+Reduced 15 texdatas to 13 (426 bytes to 344)
+Writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.prt
+ 129 portalclusters
+ 336 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 3 visible clusters (0.00%)
+Total clusters visible: 15952
+Average clusters visible: 123
+Building PAS...
+Average clusters audible: 129
+visdatasize:5422  compressed from 6192
+writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+4682 faces
+1535041 square feet [221045920.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4682 patches before subdivision
+147748 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 57079408, max 1736
+transfer lists: 435.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0758 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1306/8192        15672/98304    (15.9%) 
+brushsides            8310/81920       66480/655360   (10.1%) 
+planes                1898/65536       37960/1310720  ( 2.9%) 
+vertexes              8683/65536      104196/786432   (13.2%) 
+nodes                  324/65536       10368/2097152  ( 0.5%) 
+texinfos              1782/12288      128304/884736   (14.5%) 
+texdata                 13/4096          416/131072   ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4682/65536      262192/3670016  ( 7.1%) 
+hdr faces             4682/65536      262192/3670016  ( 7.1%) 
+origfaces             2937/65536      164472/3670016  ( 4.5%) 
+facebrushes            358/0             716/0        ( 0.0%) 
+facebrushlists        4682/0           18728/0        ( 0.0%) 
+leaves                 326/65536       10432/2097152  ( 0.5%) 
+leaffaces             5553/65536       11106/131072   ( 8.5%) 
+leafbrushes           1918/65536        3836/131072   ( 2.9%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            33907/512000     135628/2048000  ( 6.6%) 
+edges                21321/256000      85284/1024000  ( 8.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            348/32768        3480/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8319/65536       16638/131072   (12.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     9672536/0        ( 0.0%) 
+visdata               [variable]        5422/16777216 ( 0.0%) 
+entdata               [variable]         759/393216   ( 0.2%) 
+LDR ambient table      326/65536        1304/262144   ( 0.5%) 
+HDR ambient table      326/65536        1304/262144   ( 0.5%) 
+LDR leaf ambient       326/65536        9128/1835008  ( 0.5%) 
+HDR leaf ambient       129/65536        3612/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3010     ( 0.0%) 
+pakfile               [variable]      932590/0        ( 0.0%) 
+physics               [variable]      455540/4194304  (10.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 12797
+Writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+4 minutes, 22 seconds elapsed
+
+
+
+materialPath: E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.vmf
+Map revision 27
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND02, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL03, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WINDOW01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL02_1, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/STRIP01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (864.00 -8576.00 0.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (490745 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3633 texinfos to 1915
+Reduced 14 texdatas to 13 (355 bytes to 294)
+Writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.prt
+LoadPortals: couldn't read e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.prt
+
+
+
+materialPath: E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.vmf
+Map revision 28
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND02, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL03, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WINDOW01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL02_1, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/STRIP01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (490745 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3633 texinfos to 1915
+Reduced 14 texdatas to 13 (355 bytes to 294)
+Writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.prt
+ 352 portalclusters
+ 989 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 168 visible clusters (0.00%)
+Total clusters visible: 118024
+Average clusters visible: 335
+Building PAS...
+Average clusters audible: 352
+visdatasize:33796  compressed from 33792
+writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+18 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+5284 faces
+4472402 square feet [644025920.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5284 patches before subdivision
+124626 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10857351, max 1323
+transfer lists:  82.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(125636, 65484, 10809)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(23239, 6486, 685)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4034, 710, 77)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(951, 103, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(204, 18, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(55, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(14, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0414 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1404/8192        16848/98304    (17.1%) 
+brushsides            8898/81920       71184/655360   (10.9%) 
+planes                2178/65536       43560/1310720  ( 3.3%) 
+vertexes              9337/65536      112044/786432   (14.2%) 
+nodes                  850/65536       27200/2097152  ( 1.3%) 
+texinfos              1915/12288      137880/884736   (15.6%) 
+texdata                 13/4096          416/131072   ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5284/65536      295904/3670016  ( 8.1%) 
+hdr faces             5284/65536      295904/3670016  ( 8.1%) 
+origfaces             3450/65536      193200/3670016  ( 5.3%) 
+facebrushes            358/0             716/0        ( 0.0%) 
+facebrushlists        5284/0           21136/0        ( 0.0%) 
+leaves                 852/65536       27264/2097152  ( 1.3%) 
+leaffaces             6088/65536       12176/131072   ( 9.3%) 
+leafbrushes           2260/65536        4520/131072   ( 3.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            38653/512000     154612/2048000  ( 7.5%) 
+edges                24020/256000      96080/1024000  ( 9.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            397/32768        3970/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9093/65536       18186/131072   (13.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     9660464/0        ( 0.0%) 
+visdata               [variable]       33796/16777216 ( 0.2%) 
+entdata               [variable]         771/393216   ( 0.2%) 
+LDR ambient table      852/65536        3408/262144   ( 1.3%) 
+HDR ambient table      852/65536        3408/262144   ( 1.3%) 
+LDR leaf ambient       852/65536       23856/1835008  ( 1.3%) 
+HDR leaf ambient      4119/65536      115332/1835008  ( 6.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3010     ( 0.0%) 
+pakfile               [variable]      932211/0        ( 0.0%) 
+physics               [variable]      490745/4194304  (11.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 14287
+Writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+3 minutes, 58 seconds elapsed
+
+
+
+materialPath: E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.vmf
+Map revision 29
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND02, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL03, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WINDOW01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL02_1, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/STRIP01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (489177 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3627 texinfos to 1915
+Reduced 14 texdatas to 13 (355 bytes to 294)
+Writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.prt
+ 344 portalclusters
+ 949 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...
+
+
+materialPath: E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.vmf
+Map revision 30
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND02, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL03, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WINDOW01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL02_1, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/STRIP01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (489177 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3627 texinfos to 1915
+Reduced 14 texdatas to 13 (355 bytes to 294)
+Writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.prt
+ 344 portalclusters
+ 949 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 167 visible clusters (0.00%)
+Total clusters visible: 112989
+Average clusters visible: 328
+Building PAS...
+Average clusters audible: 344
+visdatasize:32340  compressed from 33024
+writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+12 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+5284 faces
+4472402 square feet [644025920.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5284 patches before subdivision
+124626 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10857510, max 1323
+transfer lists:  82.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(294529, 63719, 15498)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(54266, 6248, 1059)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8773, 639, 109)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1980, 95, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(421, 16, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(111, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(28, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0406 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1400/8192        16800/98304    (17.1%) 
+brushsides            8874/81920       70992/655360   (10.8%) 
+planes                2156/65536       43120/1310720  ( 3.3%) 
+vertexes              9305/65536      111660/786432   (14.2%) 
+nodes                  838/65536       26816/2097152  ( 1.3%) 
+texinfos              1915/12288      137880/884736   (15.6%) 
+texdata                 13/4096          416/131072   ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5284/65536      295904/3670016  ( 8.1%) 
+hdr faces             5284/65536      295904/3670016  ( 8.1%) 
+origfaces             3450/65536      193200/3670016  ( 5.3%) 
+facebrushes            358/0             716/0        ( 0.0%) 
+facebrushlists        5284/0           21136/0        ( 0.0%) 
+leaves                 840/65536       26880/2097152  ( 1.3%) 
+leaffaces             6061/65536       12122/131072   ( 9.2%) 
+leafbrushes           2251/65536        4502/131072   ( 3.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            38653/512000     154612/2048000  ( 7.5%) 
+edges                24018/256000      96072/1024000  ( 9.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          3/8192          300/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            397/32768        3970/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9093/65536       18186/131072   (13.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     9660464/0        ( 0.0%) 
+visdata               [variable]       32340/16777216 ( 0.2%) 
+entdata               [variable]        1103/393216   ( 0.3%) 
+LDR ambient table      840/65536        3360/262144   ( 1.3%) 
+HDR ambient table      840/65536        3360/262144   ( 1.3%) 
+LDR leaf ambient       840/65536       23520/1835008  ( 1.3%) 
+HDR leaf ambient      4443/65536      124404/1835008  ( 6.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3010     ( 0.0%) 
+pakfile               [variable]      932211/0        ( 0.0%) 
+physics               [variable]      489177/4194304  (11.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 14287
+Writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+4 minutes, 2 seconds elapsed
+
+
+
+materialPath: E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.vmf
+Map revision 33
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND02, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL03, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WINDOW01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL02_1, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/STRIP01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (489177 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3625 texinfos to 1913
+Reduced 14 texdatas to 13 (355 bytes to 294)
+Writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.prt
+ 344 portalclusters
+ 949 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 78 visible clusters (0.00%)
+Total clusters visible: 118010
+Average clusters visible: 343
+Building PAS...
+Average clusters audible: 344
+visdatasize:32340  compressed from 33024
+writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+materialPath: E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.vmf
+Map revision 34
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND02, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL03, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WINDOW01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL02_1, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/STRIP01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (489177 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3624 texinfos to 1912
+Reduced 14 texdatas to 13 (355 bytes to 294)
+Writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.prt
+ 344 portalclusters
+ 949 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 167 visible clusters (0.00%)
+Total clusters visible: 112989
+Average clusters visible: 328
+Building PAS...
+Average clusters audible: 344
+visdatasize:32340  compressed from 33024
+writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+15 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+5277 faces
+4472402 square feet [644025920.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5277 patches before subdivision
+124277 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10826106, max 1317
+transfer lists:  82.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(330062, 93633, 42758)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(58583, 8943, 3120)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9391, 935, 294)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2105, 143, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(461, 28, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(126, 7, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(35, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(12, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0548 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1400/8192        16800/98304    (17.1%) 
+brushsides            8874/81920       70992/655360   (10.8%) 
+planes                2156/65536       43120/1310720  ( 3.3%) 
+vertexes              9302/65536      111624/786432   (14.2%) 
+nodes                  838/65536       26816/2097152  ( 1.3%) 
+texinfos              1912/12288      137664/884736   (15.6%) 
+texdata                 13/4096          416/131072   ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5277/65536      295512/3670016  ( 8.1%) 
+hdr faces             5277/65536      295512/3670016  ( 8.1%) 
+origfaces             3450/65536      193200/3670016  ( 5.3%) 
+facebrushes            410/0             820/0        ( 0.0%) 
+facebrushlists        5277/0           21108/0        ( 0.0%) 
+leaves                 840/65536       26880/2097152  ( 1.3%) 
+leaffaces             6054/65536       12108/131072   ( 9.2%) 
+leafbrushes           2251/65536        4502/131072   ( 3.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            38634/512000     154536/2048000  ( 7.5%) 
+edges                24013/256000      96052/1024000  ( 9.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          3/8192          300/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            399/32768        3990/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9120/65536       18240/131072   (13.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     9653616/0        ( 0.0%) 
+visdata               [variable]       32340/16777216 ( 0.2%) 
+entdata               [variable]        1103/393216   ( 0.3%) 
+LDR ambient table      840/65536        3360/262144   ( 1.3%) 
+HDR ambient table      840/65536        3360/262144   ( 1.3%) 
+LDR leaf ambient       840/65536       23520/1835008  ( 1.3%) 
+HDR leaf ambient      4457/65536      124796/1835008  ( 6.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3010     ( 0.0%) 
+pakfile               [variable]      932211/0        ( 0.0%) 
+physics               [variable]      489177/4194304  (11.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 14282
+Writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+5 minutes, 22 seconds elapsed
+
+
+
+materialPath: E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.vmf
+Map revision 35
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND02, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL03, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WINDOW01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL02_1, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/STRIP01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (489177 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3624 texinfos to 1912
+Reduced 14 texdatas to 13 (355 bytes to 294)
+Writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.prt
+ 344 portalclusters
+ 949 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 166 visible clusters (0.00%)
+Total clusters visible: 112988
+Average clusters visible: 328
+Building PAS...
+Average clusters audible: 344
+visdatasize:32340  compressed from 33024
+writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+17 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+5277 faces
+4472402 square feet [644025920.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5277 patches before subdivision
+124277 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10826106, max 1317
+transfer lists:  82.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(272980, 54855, 10522)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(51323, 5371, 656)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8340, 548, 74)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1910, 84, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(408, 15, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(108, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(27, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0608 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1400/8192        16800/98304    (17.1%) 
+brushsides            8874/81920       70992/655360   (10.8%) 
+planes                2156/65536       43120/1310720  ( 3.3%) 
+vertexes              9302/65536      111624/786432   (14.2%) 
+nodes                  838/65536       26816/2097152  ( 1.3%) 
+texinfos              1912/12288      137664/884736   (15.6%) 
+texdata                 13/4096          416/131072   ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5277/65536      295512/3670016  ( 8.1%) 
+hdr faces             5277/65536      295512/3670016  ( 8.1%) 
+origfaces             3450/65536      193200/3670016  ( 5.3%) 
+facebrushes            410/0             820/0        ( 0.0%) 
+facebrushlists        5277/0           21108/0        ( 0.0%) 
+leaves                 840/65536       26880/2097152  ( 1.3%) 
+leaffaces             6054/65536       12108/131072   ( 9.2%) 
+leafbrushes           2251/65536        4502/131072   ( 3.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            38634/512000     154536/2048000  ( 7.5%) 
+edges                24013/256000      96052/1024000  ( 9.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            399/32768        3990/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9120/65536       18240/131072   (13.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     9653616/0        ( 0.0%) 
+visdata               [variable]       32340/16777216 ( 0.2%) 
+entdata               [variable]         772/393216   ( 0.2%) 
+LDR ambient table      840/65536        3360/262144   ( 1.3%) 
+HDR ambient table      840/65536        3360/262144   ( 1.3%) 
+LDR leaf ambient       840/65536       23520/1835008  ( 1.3%) 
+HDR leaf ambient      4428/65536      123984/1835008  ( 6.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3010     ( 0.0%) 
+pakfile               [variable]      932211/0        ( 0.0%) 
+physics               [variable]      489177/4194304  (11.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 14282
+Writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+5 minutes, 10 seconds elapsed
+
+
+
+materialPath: E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.vmf
+Map revision 35
+Error in .VMT file: error parsing vector element "$phongamount" in "$phongamount"
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND02, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL03, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WINDOW01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL02_1, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/STRIP01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (489177 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3624 texinfos to 1912
+Reduced 14 texdatas to 13 (355 bytes to 294)
+Writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.prt
+ 344 portalclusters
+ 949 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 167 visible clusters (0.00%)
+Total clusters visible: 112989
+Average clusters visible: 328
+Building PAS...
+Average clusters audible: 344
+visdatasize:32340  compressed from 33024
+writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+14 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+5277 faces
+4472402 square feet [644025920.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5277 patches before subdivision
+124277 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10826106, max 1317
+transfer lists:  82.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(272980, 54855, 10522)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(51323, 5371, 656)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8340, 548, 74)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1910, 84, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(408, 15, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(108, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(27, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0606 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1400/8192        16800/98304    (17.1%) 
+brushsides            8874/81920       70992/655360   (10.8%) 
+planes                2156/65536       43120/1310720  ( 3.3%) 
+vertexes              9302/65536      111624/786432   (14.2%) 
+nodes                  838/65536       26816/2097152  ( 1.3%) 
+texinfos              1912/12288      137664/884736   (15.6%) 
+texdata                 13/4096          416/131072   ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5277/65536      295512/3670016  ( 8.1%) 
+hdr faces             5277/65536      295512/3670016  ( 8.1%) 
+origfaces             3450/65536      193200/3670016  ( 5.3%) 
+facebrushes            410/0             820/0        ( 0.0%) 
+facebrushlists        5277/0           21108/0        ( 0.0%) 
+leaves                 840/65536       26880/2097152  ( 1.3%) 
+leaffaces             6054/65536       12108/131072   ( 9.2%) 
+leafbrushes           2251/65536        4502/131072   ( 3.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            38634/512000     154536/2048000  ( 7.5%) 
+edges                24013/256000      96052/1024000  ( 9.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            399/32768        3990/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9120/65536       18240/131072   (13.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     9653616/0        ( 0.0%) 
+visdata               [variable]       32340/16777216 ( 0.2%) 
+entdata               [variable]         772/393216   ( 0.2%) 
+LDR ambient table      840/65536        3360/262144   ( 1.3%) 
+HDR ambient table      840/65536        3360/262144   ( 1.3%) 
+LDR leaf ambient       840/65536       23520/1835008  ( 1.3%) 
+HDR leaf ambient      4428/65536      123984/1835008  ( 6.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3010     ( 0.0%) 
+pakfile               [variable]      932211/0        ( 0.0%) 
+physics               [variable]      489177/4194304  (11.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 14282
+Writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+5 minutes, 16 seconds elapsed
+
+
+
+materialPath: E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.vmf
+Map revision 37
+Error in .VMT file: error parsing vector element "$phongamount" in "$phongamount"
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND02, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL03, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WINDOW01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/WALL02_1, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/STRIP01, using default
+Can't find surfaceprop stone for material ALAMHIGO/STREET/GROUND01, using default
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (489177 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3624 texinfos to 1912
+Reduced 14 texdatas to 13 (355 bytes to 294)
+Writing E:\Program Files\Steam\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\LCA_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+reading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.prt
+ 344 portalclusters
+ 949 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 167 visible clusters (0.00%)
+Total clusters visible: 112989
+Average clusters visible: 328
+Building PAS...
+Average clusters audible: 344
+visdatasize:32340  compressed from 33024
+writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+5277 faces
+4472402 square feet [644025920.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5277 patches before subdivision
+124277 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10826134, max 1317
+transfer lists:  82.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(207227, 40518, 10524)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(39979, 3538, 657)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7238, 391, 74)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1747, 56, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(369, 11, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(99, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(23, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0582 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1400/8192        16800/98304    (17.1%) 
+brushsides            8874/81920       70992/655360   (10.8%) 
+planes                2156/65536       43120/1310720  ( 3.3%) 
+vertexes              9302/65536      111624/786432   (14.2%) 
+nodes                  838/65536       26816/2097152  ( 1.3%) 
+texinfos              1912/12288      137664/884736   (15.6%) 
+texdata                 13/4096          416/131072   ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5277/65536      295512/3670016  ( 8.1%) 
+hdr faces             5277/65536      295512/3670016  ( 8.1%) 
+origfaces             3450/65536      193200/3670016  ( 5.3%) 
+facebrushes            410/0             820/0        ( 0.0%) 
+facebrushlists        5277/0           21108/0        ( 0.0%) 
+leaves                 840/65536       26880/2097152  ( 1.3%) 
+leaffaces             6054/65536       12108/131072   ( 9.2%) 
+leafbrushes           2251/65536        4502/131072   ( 3.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            38634/512000     154536/2048000  ( 7.5%) 
+edges                24015/256000      96060/1024000  ( 9.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            399/32768        3990/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9120/65536       18240/131072   (13.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     9653616/0        ( 0.0%) 
+visdata               [variable]       32340/16777216 ( 0.2%) 
+entdata               [variable]         772/393216   ( 0.2%) 
+LDR ambient table      840/65536        3360/262144   ( 1.3%) 
+HDR ambient table      840/65536        3360/262144   ( 1.3%) 
+LDR leaf ambient       840/65536       23520/1835008  ( 1.3%) 
+HDR leaf ambient      4455/65536      124740/1835008  ( 6.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3010     ( 0.0%) 
+pakfile               [variable]      932211/0        ( 0.0%) 
+physics               [variable]      489177/4194304  (11.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 14282
+Writing e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\program files\steam\steamapps\common\counter-strike global offensive\sdk_content\maps\lca_maps\ze_ffxiv_stormblood_alamihgo_a1.bsp', but we don't own that location. Allowing...
+4 minutes, 37 seconds elapsed
